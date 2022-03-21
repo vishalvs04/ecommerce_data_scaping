@@ -1,4 +1,6 @@
 # ecommerce_data_scaping
+In this project, I used https://webscraper.io/test-sites/e-commerce/allinone as my source website, to scrap the data present on the site regarding the products.
+I used BeautifulSoup and Jupyter Notebook to perform this project, feel free to use, modify or copy the code and files as per your own requirement.
 This project contains 4 files:
   <ol>
   <li>Jupyter Notebook file with all the necessary code.</li>
